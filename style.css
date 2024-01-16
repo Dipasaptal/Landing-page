@@ -1,0 +1,232 @@
+#image  /* id #*/
+{
+    background-image: url("https://img.freepik.com/free-photo/vibrant-autumn-maple-leaves-nature-beauty-showcased-generated-by-ai_188544-15039.jpg?w=826&t=st=1705163546~exp=1705164146~hmac=6408aba3dc7a64e6220228070b00139556ebf2c0769c4836131235ad1ffc55f1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+.logo
+{
+    color: blanchedalmond;
+    height: 1em;
+    width: 4em;
+    margin-left: 60%;
+    
+}
+.nav-bar
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    justify-content: space-between;
+   /* border-radius: 5px;
+    border-color: brown;
+    height: 50px;
+    width: 200%;
+    background-color: grey;
+    color: bisque;*/
+    border-radius: 0px;
+    /*filter: blur(1px);*/
+    backdrop-filter: blur(200px);
+   
+      
+
+}
+.nav4,.nav5,.nav6,.nav7
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    justify-content: space-between;
+    color: bisque;
+    text-align: right;
+}
+
+.autumn
+{
+    border-style: none;
+  
+}
+.head1
+{
+   margin-right: 57%;
+   margin-top: 10%;
+}
+.img1,.img2,.img3
+{
+    margin-left: 57%;
+}
+.para1
+{
+    margin-left: 10%;
+   align-items: last baseline;
+   font-weight: bold;
+}
+.btn1
+{
+    margin-left: 10%;
+}
+.div2
+{
+    margin-top: 10%;
+    margin-left: 50%;
+}
+
+/* Winter season page style*/
+#image1  /* id #*/
+{
+    background-image: url("https://media.istockphoto.com/id/1181315370/photo/colorful-sunset.jpg?s=612x612&w=0&k=20&c=eF0AC8UQn7aLgImZyh3VWsg0kyDUmefQQ5jDY6RyAfQ=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+.logo1
+{
+    color: blanchedalmond;
+    height: 1em;
+    width: 4em;
+    margin-left: 60%;
+
+   
+    
+}
+.nav-bar2
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    justify-content: space-between;
+   /* border-radius: 5px;
+    border-color: brown;
+    height: 50px;
+    width: 200%;
+    background-color: grey;
+    color: bisque;*/
+    border-radius: 0px;
+    /*filter: blur(1px);*/
+    backdrop-filter: blur(200px);
+   
+      
+
+}
+.navb,.navc,.navd,.nave
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    justify-content: space-between;
+    color: bisque;
+    text-align: right;
+}
+
+.autumn1
+{
+    border-style: none;
+  
+}
+.headd
+{
+   margin-right: 63%;
+   margin-top: 10%;
+}
+.imga,.imgb,.imgc
+{
+    margin-left: 57%;
+}
+.para2
+{
+    margin-left: 10%;
+   align-items: last baseline;
+   font-size: 17px;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+   line-height: 30px;
+}
+.btn2
+{
+    margin-left: 10%;
+}
+.div3
+{
+    margin-top: 10%;
+    margin-left: 50%;
+}
+
+/* summer season page style*/
+#image2  /* id #*/
+{
+    background-image: url("https://media.istockphoto.com/id/1220728836/photo/tropical-island-palm-tree-beach-from-above.jpg?s=612x612&w=0&k=20&c=1cYuKjGdtJwPRYT-iHk4S49C2-fq-U05JPzD66wR9BE=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+.logo3
+{
+    color: blanchedalmond;
+    height: 1em;
+    width: 4em;
+    margin-left: 60%;    
+}
+
+.nav-bar3
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    justify-content: space-between;
+   /* border-radius: 5px;
+    border-color: brown;
+    height: 50px;
+    width: 200%;
+    background-color: grey;
+    color: bisque;*/
+    border-radius: 0px;
+    /*filter: blur(1px);*/
+    backdrop-filter: blur(200px);
+    
+   
+      
+
+}
+.navbb,.navcc,.navdd,.navee
+{
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    justify-content: space-between;
+    color: bisque;
+    text-align: right;
+}
+
+.autumn2
+{
+    border-style: none;
+  
+}
+.headdd
+{
+   margin-right: 63%;
+   margin-top: 10%;
+}
+.imgaa,.imgbb,.imgcc
+{
+    margin-left: 57%;
+}
+.para3
+{
+    margin-left: 10%;
+   align-items: last baseline;
+   font-weight: bold;
+}
+.btn3
+{
+    margin-left: 10%;
+}
+.div4
+{
+    margin-top: 10%;
+    margin-left: 50%;
+}
